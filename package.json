@@ -11,7 +11,7 @@
     "datatables.net": "^1.10.19",
     "js-file-download": "^0.4.5",
     "jwt-decode": "^2.2.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "react": "^16.8.6",
     "react-beautiful-dnd": "^11.0.0-beta",
     "react-bootstrap-daterangepicker": "^4.1.0",
